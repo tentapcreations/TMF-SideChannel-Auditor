@@ -23,3 +23,4 @@ This repository is an open invitation. If this resonates with you, join as a col
 * **Phase 4**: Shared Navigation Authority
 
 Let's give robots back their native tongue — the language of **Traversable Medium**. Step 0 to 1 depends on you!
+Read the Technical Specification: Check out RFC-001: Bypass Binary Mask Architecture for the detailed Phase 1 engineering blueprint and data flow.
