@@ -4,7 +4,7 @@ Hey, make some room in your mind.
 
 We need space for a fundamentally different way of letting robots roam.
 
-"Space" as a concept did not originate from engineering — its prior art comes from fine arts and spatial thinking. The cognitive ability to truly understand structure, deconstruct obstacles, and isolate fluid variables is deeply rooted in Deconstructivism. This is not artistic romanticism; it is historical fact that engineers cannot refute.
+"Space" as a concept did not originate from engineering — its prior art comes from fine arts and spatial thinking. The cognitive ability to truly understand structure, deconstruct obstacles, and isolate fluid variables is deeply rooted in art and Deconstructivism. Not science. it is a historical fact that engineers cannot refute. Just look at Leonardo da Vinci, who mapped spatial mediums five centuries before Einstein finally awakened science to dynamic spacetime.
 
 Right now, the robotics and autonomous driving industry is suffocating under data-hungry, black-box neural networks — systems that are fuzzy, statistical, and probabilistic, rather than aligned with the beautifully clear, solid, and deterministic physical world. 
 
