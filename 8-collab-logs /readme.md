@@ -1,1 +1,1 @@
-To redord AI's work and contribution for this project. Otherwise, it will be unrepresented.
+To record AI assistance and contributions to this project, ensuring full transparency and recognition of human-AI co-creation.
